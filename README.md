@@ -1,10 +1,10 @@
 # Exercícios de lógica em Ruby
 
-## Requirements
+## Requisitos
  - ruby
-   - suggestion: install it with rvm or something like it
+   - sugestão: instalar o ruby via rvm ou similar
    - https://rvm.io
-## Install
+## Instalação
 
 clone o repositório:
 
@@ -22,14 +22,14 @@ Rode o setup:
 ./bin/setup.sh
 ```
 
-## Run
+## Rodando
 
 Execute no terminal:
 ```
 ./test.sh
 ```
 
-## How to solve test
+## Resolvendo os testes
 
 Ao executar ```test.sh```, haverá uma lista de testes para explicar os exercicios e validar seus códigos.
 
