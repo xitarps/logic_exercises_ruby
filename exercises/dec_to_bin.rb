@@ -1,5 +1,7 @@
 class DecToBin
   def self.convert(number)
-    # 110
+    #your code here \/ \/ \/
+
+    #your code here /\ /\ /\
   end
 end

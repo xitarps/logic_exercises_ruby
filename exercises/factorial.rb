@@ -1,5 +1,7 @@
 class Factorial
   def self.calculate(number)
-    # 24
+    #your code here \/ \/ \/
+
+    #your code here /\ /\ /\
   end
 end

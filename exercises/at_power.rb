@@ -1,5 +1,7 @@
 class AtPower
   def self.calculate(number,power)
-    # '2^3 = 8'
+    #your code here \/ \/ \/
+
+    #your code here /\ /\ /\
   end
 end

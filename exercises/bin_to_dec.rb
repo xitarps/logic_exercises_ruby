@@ -1,5 +1,7 @@
 class BinToDec
   def self.convert(number)
-    # 6
+    #your code here \/ \/ \/
+
+    #your code here /\ /\ /\
   end
 end
