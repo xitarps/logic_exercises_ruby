@@ -8,4 +8,4 @@ echo 'Tudo pronto :)'
 echo ''
 sleep 2
 echo 'para começar basta digitar no terminal: '
-echo './teste.sh'
+echo './test.sh'

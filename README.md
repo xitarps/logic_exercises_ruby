@@ -6,12 +6,16 @@
    - https://rvm.io
 ## Instalação
 
-clone o repositório:
+Clone o repositório:
 
 ```
 git clone https://github.com/xitarps/logic_exercises_ruby
 ```
+Entre na pasta do projeto:
 
+```
+cd ./logic_exercises_ruby
+```
 Permita a execução:
 
 ```
