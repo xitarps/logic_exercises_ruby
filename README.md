@@ -1,10 +1,12 @@
 # Exercícios de lógica em Ruby
 
-## Requisitos
+Esse projeto roda via ```terminal``` e visa auxiliar nos primeiros passos com lógica de programação, ruby e testes.
+
+## Requisitos:
  - ruby
    - sugestão: instalar o ruby via rvm ou similar
    - https://rvm.io
-## Instalação
+## Instalação:
 
 Clone o repositório:
 
@@ -16,7 +18,7 @@ Entre na pasta do projeto:
 ```
 cd ./logic_exercises_ruby
 ```
-Permita a execução:
+Permita a execução(se necessário):
 
 ```
 sudo chmod +x ./bin/setup.sh && sudo chmod +x ./test.sh
@@ -26,14 +28,14 @@ Rode o setup:
 ./bin/setup.sh
 ```
 
-## Rodando
+## Rodando:
 
 Execute no terminal:
 ```
 ./test.sh
 ```
 
-## Resolvendo os testes
+## Resolvendo os testes:
 
 Ao executar ```test.sh```, haverá uma lista de testes para explicar os exercicios e validar seus códigos.
 
@@ -50,6 +52,10 @@ class Multiplication
   end
 end
 ```
+
+## Preview:
+
+![alt text](imgs/screen.png "Screenshot/preview")
 
 ## Um pouco mais...
 
