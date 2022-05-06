@@ -12,5 +12,13 @@ def imc
 
     entrada: Imc.calculate(170,70)
     saída:   24,22 - peso normal
+
+    ex:
+      imc   = peso / altura²
+
+        70kg
+      ---------  = 24,22
+       (1.7m)²
+
   EOF
 end
