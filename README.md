@@ -1,36 +1,27 @@
 # Exercícios de lógica em Ruby
 
-Esse projeto roda via ```terminal``` e visa auxiliar nos primeiros passos com lógica de programação, ruby e testes.
+## Preview:
+
+![alt text](imgs/screen.png "Screenshot/preview")
+
+Esse projeto roda via **terminal** e visa auxiliar nos primeiros passos com lógica de programação, ruby e testes. E pode ser utilizado como exercício diário de programação em Ruby, bem como adaptado para processos seletivos.
 
 ## Requisitos:
  - ruby
-   - sugestão: instalar o ruby via rvm ou similar
-   - https://rvm.io
+ - sugestão: instalar o ruby via RVM ou similar.
+
 ## Instalação:
+1° - Faça o download do arquivo <a href="https://github.com/Adyson-Lima/logic_exercises_ruby_fork/tree/main/bin">setup.rb</a>.
 
-Clone o repositório:
-
-```
-git clone https://github.com/xitarps/logic_exercises_ruby
-```
-Entre na pasta do projeto:
+2° - Execute o arquivo setup.rb:
 
 ```
-cd ./logic_exercises_ruby
-```
-Permita a execução(se necessário):
-
-```
-sudo chmod +x ./bin/setup.sh && sudo chmod +x ./test.sh
-```
-Rode o setup:
-```
-./bin/setup.sh
+ruby setup.rb
 ```
 
 ## Rodando:
 
-Execute no terminal:
+Dentro da pasta, **logic_exercises_ruby**, criada durante o setup, execute o comando:
 ```
 ./test.sh
 ```
@@ -52,10 +43,6 @@ class Multiplication
   end
 end
 ```
-
-## Preview:
-
-![alt text](imgs/screen.png "Screenshot/preview")
 
 ## Um pouco mais...
 
