@@ -11,7 +11,7 @@ Esse projeto roda via **terminal** e visa auxiliar nos primeiros passos com lóg
  - sugestão: instalar o ruby via RVM ou similar.
 
 ## Instalação:
-1° - Faça o download do arquivo <a href="https://github.com/Adyson-Lima/logic_exercises_ruby_fork/tree/main/bin">setup.rb</a>.
+1° - Faça o download do arquivo <a href="https://github.com/xitarps/logic_exercises_ruby/blob/main/bin/setup.rb">setup.rb</a>.
 
 2° - Execute o arquivo setup.rb:
 
