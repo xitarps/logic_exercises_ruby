@@ -11,7 +11,11 @@ Esse projeto roda via **terminal** e visa auxiliar nos primeiros passos com lóg
  - sugestão: instalar o ruby via RVM ou similar.
 
 ## Instalação:
-1° - Faça o download do arquivo <a href="https://github.com/xitarps/logic_exercises_ruby/blob/main/bin/setup.rb">setup.rb</a>.
+1° - Faça o download do arquivo <a href="https://raw.githubusercontent.com/xitarps/logic_exercises_ruby/main/bin/setup.rb">setup.rb</a>.
+* ou baixe com curl:
+```
+curl -O https://raw.githubusercontent.com/xitarps/logic_exercises_ruby/main/bin/setup.rb
+```
 
 2° - Execute o arquivo setup.rb:
 
