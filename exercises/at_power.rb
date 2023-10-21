@@ -2,8 +2,6 @@
 
 class AtPower
   def self.calculate(number, power)
-    # your code here \/ \/ \/
-
-    # your code here /\ /\ /\
+    "#{number}^#{power} = #{number**power}"
   end
 end
