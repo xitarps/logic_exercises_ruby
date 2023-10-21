@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 require_relative '../exercises/factorial'
 
 RSpec.describe Factorial do
@@ -25,7 +27,7 @@ RSpec.describe Factorial do
   context 'when input is 40' do
     it 'has the output 815915283247897734345611269596115894272000000000' do
       result = Factorial.calculate(40)
-      expect(result).to be_eql(815915283247897734345611269596115894272000000000)
+      expect(result).to be_eql(815_915_283_247_897_734_345_611_269_596_115_894_272_000_000_000)
     end
   end
 end

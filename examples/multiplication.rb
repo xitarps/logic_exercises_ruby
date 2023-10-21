@@ -1,4 +1,6 @@
-def multiplication 
+# frozen_string_literal: true
+
+def multiplication
   puts <<-EOF
     Faça um algoritmo que calcule multiplicação:
 

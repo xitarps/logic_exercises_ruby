@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 def even_or_odd
   puts <<-EOF
     Faça um algoritmo que diga se um numero é par ou impar:

@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 def imc
   puts <<-EOF
     Faça um algoritmo que calcule o IMC seguindo a tabela abaixo:

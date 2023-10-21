@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 require_relative '../exercises/handshake'
 
 RSpec.describe Handshake do
@@ -39,14 +41,14 @@ RSpec.describe Handshake do
   context 'when 1000 people' do
     it 'has to be 499500 handshakes' do
       result = Handshake.calculate(1000)
-      expect(result).to eql(499500)
+      expect(result).to eql(499_500)
     end
   end
 
   context 'when 5000000 people' do
     it 'has to be 12499997500000 handshakes' do
-      result = Handshake.calculate(5000000)
-      expect(result).to eql(12499997500000)
+      result = Handshake.calculate(5_000_000)
+      expect(result).to eql(12_499_997_500_000)
     end
   end
 end

@@ -1,4 +1,6 @@
-def simple_interest 
+# frozen_string_literal: true
+
+def simple_interest
   puts <<-EOF
     Faça um algoritmo que calcule juros simples:
 

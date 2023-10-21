@@ -1,7 +1,9 @@
-class AtPower
-  def self.calculate(number,power)
-    #your code here \/ \/ \/
+# frozen_string_literal: true
 
-    #your code here /\ /\ /\
+class AtPower
+  def self.calculate(number, power)
+    # your code here \/ \/ \/
+
+    # your code here /\ /\ /\
   end
 end

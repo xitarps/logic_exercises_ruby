@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 def handshake
   puts <<-EOF
     Faça um algoritmo que calcule quantos apertos de mão ocorrem para que todos de uma reunião apertem a mão de todo:

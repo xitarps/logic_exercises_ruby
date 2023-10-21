@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 def bin_to_dec
   puts <<-EOF
     Faça um algoritmo que converta binário em decimal:

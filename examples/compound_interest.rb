@@ -1,8 +1,10 @@
+# frozen_string_literal: true
+
 def compound_interest
   puts <<-EOF
     Faça um algoritmo que calcule montante de juros compostos:
 
-    ex: 
+    ex:#{' '}
     Capital inicial = 1.000 R$
     elevadoAoPeriodo = 5 meses
     jurosPorcento =2%

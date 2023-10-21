@@ -1,4 +1,6 @@
-def multiplication_table 
+# frozen_string_literal: true
+
+def multiplication_table
   puts <<-EOF
     Faça um algoritmo que calcule a tabuada de um número qualquer:
 

@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 require_relative '../exercises/fibonacci'
 
 RSpec.describe Fibonacci do
